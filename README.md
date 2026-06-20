@@ -1,2 +1,4 @@
-# cpp-practical-projects
-Modular C++ small and medium-sized projects focused on clean code, single responsibility, and architectural design principles.
+---
+> ⚠️ **Status: Under Active Development & Construction**
+> This repository is currently being updated and populated with new projects, documentation, and code refactoring. Stay tuned for continuous updates!
+---
